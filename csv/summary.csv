@@ -1,0 +1,2 @@
+config,threads,implementation,min_total_ms,avg_total_ms,stdev_total_ms
+config5.txt,16,proftools,3736.0,3836.8,73.16214868359185

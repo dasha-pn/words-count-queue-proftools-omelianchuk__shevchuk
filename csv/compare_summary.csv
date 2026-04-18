@@ -1,0 +1,11 @@
+config,threads,implementation,min_total_ms,avg_total_ms,stdev_total_ms
+config1.txt,1,basis_par,19244.0,19652.6,315.8778244828212
+config1.txt,1,proftools,19886.0,19969.2,78.59198432410267
+config2.txt,2,basis_par,11548.0,11813.2,178.63286371773813
+config2.txt,2,proftools,11842.0,11915.0,58.510682785282896
+config3.txt,4,basis_par,9702.0,9845.8,161.46268918855526
+config3.txt,4,proftools,7044.0,7078.8,29.448259710889538
+config4.txt,8,basis_par,7435.0,7556.0,81.07712377730232
+config4.txt,8,proftools,5790.0,5841.0,50.428166732491874
+config5.txt,16,basis_par,7285.0,7466.8,128.3012081003137
+config5.txt,16,proftools,4070.0,4099.4,37.81930723849923

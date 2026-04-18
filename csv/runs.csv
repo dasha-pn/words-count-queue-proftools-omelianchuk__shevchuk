@@ -1,0 +1,6 @@
+implementation,config,threads,run,total_ms
+proftools,config5.txt,16,1,3924.0
+proftools,config5.txt,16,2,3736.0
+proftools,config5.txt,16,3,3821.0
+proftools,config5.txt,16,4,3813.0
+proftools,config5.txt,16,5,3890.0
