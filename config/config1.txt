@@ -1,0 +1,11 @@
+indir=/mnt/d/dataset/3/3/ # Директорія для індексації (без лапок)
+out_by_a=./output/res_a.txt # Результати, посортовані за алфавітом
+out_by_n=./output/res_n.txt # Результати, посортовані за кількістю
+indexing_extensions = .txt
+archives_extensions = .zip
+max_file_size = 10000000 # Максимальний розмір текстового файлу для індексування
+indexing_threads = 1
+filenames_queue_size = 10000 # Максимальна кількість елементів черг
+raw_files_queue_size = 1000
+dictionaries_queue_size = 1000
+merging_threads = 1

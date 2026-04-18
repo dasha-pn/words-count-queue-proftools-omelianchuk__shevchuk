@@ -1,0 +1,11 @@
+indir="/mnt/iso/3/3/3"
+out_by_a=./output/res_a.txt
+out_by_n=./output/res_n.txt
+indexing_extensions = .txt
+archives_extensions = .zip
+max_file_size = 10000000
+indexing_threads = 1
+merging_threads = 1
+filenames_queue_size = 10000
+raw_files_queue_size = 1000
+dictionaries_queue_size = 1000
